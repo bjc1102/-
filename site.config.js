@@ -6,7 +6,7 @@ module.exports = {
 
   // open graph metadata (optional)
   description: 'Example site description',
-  socialImageTitle: 'Transitive Bullshit',
+  socialImageTitle: 'SIMPLE',
   socialImageSubtitle: 'Hello World! 👋',
 
   // social usernames (optional)
